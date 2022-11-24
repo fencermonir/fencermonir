@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Flexia WordPress Theme, Flexia Pro WP Plugin & Essential Blocks WP Plugin.
+- 🔭 I’m currently working on Flexia WordPress Theme, Flexia Pro WP Plugin, BetterDocs, BetterDocs Pro & Essential Blocks WP Plugin.
 - 🌱 I’m currently learning JavaScript & React.
 - 👯 I’m looking to collaborate on anything WordPress Related.
 - 🤔 I’m looking for help with all the things.
